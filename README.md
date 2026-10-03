@@ -1,16 +1,14 @@
-## Hi there 👋
+## Luke Miller — DFIR & Detection Engineering
 
-<!--
-**CloudSecLuke/CloudSecLuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Security Engineer · ~10 yrs DFIR · USAF Cyber (17S) veteran · 8× GIAC (GCIH, GCIA, GPEN, GWAPT, GCSA, GDSA, GSTRT, GSEC) · GIAC Advisory Board
 
-Here are some ideas to get you started:
+### Open Source Detection Contributions
+- **SigmaHQ/sigma** — [ARTEX AI pentest framework detection](<PR link>) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **[Signal9](https://signal9.sh)** — hands-on DFIR/Linux training with state-graded labs
+- **[Intmain](https://intmain.sh)** - C programming curriculum building toward memory, assembly, and reversing fundamentals
+- **[IronOak Security](https://ironoaksecurity.com)** — incident response & vulnerability assessment consultancy
+
+### Connect
+[LinkedIn](http://www.linkedin.com/in/lfmill1) · [cloudsecluke.com](https://cloudsecluke.com)
